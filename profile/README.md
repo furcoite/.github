@@ -1,1 +1,13 @@
 # FURCOITE
+
+Navy Blue
+#05445E
+
+Blue Grotto
+#189AB4
+
+Blue Green
+#75E6DA
+
+Baby Blue
+#D4F1F4
